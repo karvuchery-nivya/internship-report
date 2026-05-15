@@ -60,8 +60,17 @@ Project structure:
 2.Frontend
 3.Backend
 
+screenshorts of execution and outputs
 
+<img width="495" height="1600" alt="12a324be-b1d1-4e09-a84e-4e5afc44ad48" src="https://github.com/user-attachments/assets/8f4a5617-e4bc-476b-ba92-2e69c4943e42" />
 
+<img width="494" height="1600" alt="145b0e95-46f1-4ef0-a1f9-20b77292f47d" src="https://github.com/user-attachments/assets/df4ff085-670f-4abc-85f5-2ad257ebdf62" />
+
+<img width="500" height="1600" alt="9857e64c-4668-4512-9430-af187f062b18" src="https://github.com/user-attachments/assets/3beabc7a-dd3e-410e-bfe5-6b5a184e2bdf" />
+
+output:
+
+<img width="1000" height="1600" alt="2c25d4c7-f679-4333-81c8-1a2aceb02683" src="https://github.com/user-attachments/assets/4d34cedf-e21d-4947-b529-81b0a940d99c" />
 
 
 
